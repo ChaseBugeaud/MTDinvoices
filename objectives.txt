@@ -1,0 +1,3 @@
+Objectives fot MTDinvoices
+	1. Create a user-friendly JS web app for new users to easily create quotes with MTD
+	2. Mimic the style of MTD's current website with professional quality
